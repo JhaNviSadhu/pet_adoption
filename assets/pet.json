@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Sola",
+        "scientificName": "Abyssinian cat",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "assets/icons/sola.png",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Sola1",
+        "scientificName": "Abyssinian cat",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "assets/icons/sola.png",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Sola2",
+        "scientificName": "Abyssinian cat",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "assets/icons/sola.png",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Sola3",
+        "scientificName": "Abyssinian cat",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "assets/icons/sola.png",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Sola4",
+        "scientificName": "Abyssinian cat",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "assets/icons/sola.png",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Sola5",
+        "scientificName": "Abyssinian cat",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "assets/icons/sola.png",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Sola6",
+        "scientificName": "Abyssinian cat",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "assets/icons/sola.png",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Orion",
+        "scientificName": "Abyssinian cat",
+        "age": 1.5,
+        "distanceToUser": "7.8 km",
+        "isFemale": false,
+        "imageUrl": "assets/icons/sola.png",
+        "backgroundColor": ""
+    }
+]
