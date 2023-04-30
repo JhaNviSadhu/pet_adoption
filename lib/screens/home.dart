@@ -249,12 +249,16 @@ class _HomeScreenState extends State<HomeScreen> {
                                       ),
                                       Hero(
                                         tag: "${snapshot.data?[index].name}",
-                                        child: Image(
-                                          image: const AssetImage(
-                                              "assets/icons/sola.png"),
-                                          height: 220.0,
-                                          fit: BoxFit.fitHeight,
-                                          width: deviceWidth * 0.4,
+                                        child: ClipRRect(
+                                          borderRadius:
+                                              BorderRadius.circular(20),
+                                          child: Image(
+                                            image: NetworkImage(
+                                                "${snapshot.data?[index].imageUrl}"),
+                                            height: 220.0,
+                                            fit: BoxFit.fitHeight,
+                                            width: deviceWidth * 0.4,
+                                          ),
                                         ),
                                       ),
                                     ],

@@ -1,74 +1,56 @@
 [
     {
-        "name": "Sola",
-        "scientificName": "Abyssinian cat",
+        "name": "Bebo",
+        "scientificName": "Shih Tzu",
         "age": 2.0,
-        "distanceToUser": "7.8 km",
-        "isFemale": true,
-        "imageUrl": "assets/icons/sola.png",
-        "backgroundColor": ""
-    },
-    {
-        "name": "Sola1",
-        "scientificName": "Abyssinian cat",
-        "age": 2.0,
-        "distanceToUser": "7.8 km",
-        "isFemale": true,
-        "imageUrl": "assets/icons/sola.png",
-        "backgroundColor": ""
-    },
-    {
-        "name": "Sola2",
-        "scientificName": "Abyssinian cat",
-        "age": 2.0,
-        "distanceToUser": "7.8 km",
-        "isFemale": true,
-        "imageUrl": "assets/icons/sola.png",
-        "backgroundColor": ""
-    },
-    {
-        "name": "Sola3",
-        "scientificName": "Abyssinian cat",
-        "age": 2.0,
-        "distanceToUser": "7.8 km",
-        "isFemale": true,
-        "imageUrl": "assets/icons/sola.png",
-        "backgroundColor": ""
-    },
-    {
-        "name": "Sola4",
-        "scientificName": "Abyssinian cat",
-        "age": 2.0,
-        "distanceToUser": "7.8 km",
-        "isFemale": true,
-        "imageUrl": "assets/icons/sola.png",
-        "backgroundColor": ""
-    },
-    {
-        "name": "Sola5",
-        "scientificName": "Abyssinian cat",
-        "age": 2.0,
-        "distanceToUser": "7.8 km",
-        "isFemale": true,
-        "imageUrl": "assets/icons/sola.png",
-        "backgroundColor": ""
-    },
-    {
-        "name": "Sola6",
-        "scientificName": "Abyssinian cat",
-        "age": 2.0,
-        "distanceToUser": "7.8 km",
-        "isFemale": true,
-        "imageUrl": "assets/icons/sola.png",
-        "backgroundColor": ""
-    },
-    {
-        "name": "Orion",
-        "scientificName": "Abyssinian cat",
-        "age": 1.5,
         "distanceToUser": "7.8 km",
         "isFemale": false,
-        "imageUrl": "assets/icons/sola.png",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzeJv1tjjCTLAPFqlWNzffUVyiM_Vni20YtA&usqp=CAU",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Snow",
+        "scientificName": "Husky",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "https://i.pinimg.com/736x/b8/16/47/b8164723dd77dab0e1333ba6b9f9c1df.jpg",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Shepherd",
+        "scientificName": "German Shepherd",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "https://www.shutterstock.com/image-photo/german-shepherd-puppy-portrait-close-260nw-1752353840.jpg",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Bebo1",
+        "scientificName": "Shih Tzu",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzeJv1tjjCTLAPFqlWNzffUVyiM_Vni20YtA&usqp=CAU",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Snow2",
+        "scientificName": "Husky",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "https://i.pinimg.com/736x/b8/16/47/b8164723dd77dab0e1333ba6b9f9c1df.jpg",
+        "backgroundColor": ""
+    },
+    {
+        "name": "Shepherd3",
+        "scientificName": "German Shepherd",
+        "age": 2.0,
+        "distanceToUser": "7.8 km",
+        "isFemale": true,
+        "imageUrl": "https://www.shutterstock.com/image-photo/german-shepherd-puppy-portrait-close-260nw-1752353840.jpg",
         "backgroundColor": ""
     }
 ]
